@@ -1,6 +1,8 @@
 # lordif
 Performs Logistic Ordinal Regression Differential Item Functioning using IRT Use lordif With (In) R Software
 
+https://www.youtube.com/watch?v=edBUhDVDTXA
+
 Olah Data Semarang
 
 WA: +6285227746673 (085227746673)
